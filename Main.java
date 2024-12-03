@@ -4,7 +4,7 @@ public class Main {
   }
 }
 
-public void main (){
+public static void main (){
 Main m = new Main();
   m.afficher()
 }
