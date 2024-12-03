@@ -6,5 +6,5 @@ public class Main {
 
 public static void main (){
 Main m = new Main();
-  m.afficher()
+  m.afficher();
 }
